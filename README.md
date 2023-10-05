@@ -1,2 +1,3 @@
-Pet App
--Swift
+Pet App - Приложение для выгула питомца
+![Simulator Screen Shot - iPhone 14 Pro - 2023-10-06 at 02 04 46](https://github.com/arturimkh/PetApp/assets/93591466/1ac9de8d-a42d-4588-83d2-86a72c2c2d48)
+
